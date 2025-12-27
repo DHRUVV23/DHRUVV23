@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
-  
-  <h1 align="center">Hi there, I'm Dhruv Agrawal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Hello!+I'm+Dhruv;I+Build+Scalable+Backends;Competitive+Programmer;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 
-  <h3 align="center">Ex-Software Engineering Intern @ Cisco | Full Stack Developer | Competitive Programmer</h3>
+  <h3 align="center">Former Software Engineering Intern @ Cisco | Full Stack & Backend Developer</h3>
 
   <p align="center">
     <a href="mailto:dhruvagrawal874@gmail.com">
@@ -20,63 +20,50 @@
 
 ---
 
+<!-- <div align="center">
+  <h3>🏆 My Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=DHRUVV23&theme=flat&no-frame=true&column=7&margin-w=15" />
+</div>
+
+--- -->
+
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently a **B.Tech** student in **Electronics and Communication Engineering** at **IIIT Allahabad** (CGPA: 9.06).
-- 💼 I previously worked as a **Software Engineering Intern at Cisco Systems**, focusing on **Agentic AI** and **MCP servers**.
+- 🎓 **B.Tech ECE** at **IIIT Allahabad** (CGPA: 9.06).
+- 💼 **Ex-Cisco Intern** (Agentic AI & MCP Servers).
 - 🏆 **Competitive Programming:**
-  - **Codeforces Specialist** (Max Rating: 1443)
-  - **LeetCode Knight** (Max Rating: 1926)
-  - **CodeChef 4-Star** (Max Rating: 1827)
-- 🔭 I’m currently **discovering new languages** and exploring advanced backend technologies.
-- 💬 Ask me about **Data Structures, Algorithms, and System Design**.
+  - Codeforces Specialist (Max: 1443)
+  - LeetCode Knight (Max: 1926)
+  - CodeChef 4-Star (Max: 1827)
+- 🔭 Exploring **Go, Rust, and System Design**.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,rust,cpp,python,nodejs,express" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,docker,gcp,git" />
+</div>
 
 ---
 
-### ⚡ GitHub Stats
+### ⚡ GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Profile Summary Cards - Always works -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DHRUVV23&theme=radical" alt="profile details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DHRUVV23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVV23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
 </div>
+
 <br>
+
 <div align="center">
-  <!-- Stats and Languages Side by Side -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DHRUVV23&theme=radical" height="180" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DHRUVV23&theme=radical" height="180" alt="languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DHRUVV23&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="streak stats" />
 </div>
+
 <br>
+
 <div align="center">
-  <!-- Contribution Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DHRUVV23&theme=radical" alt="productive time" />
-</div>
-<!-- <br> -->
-<!-- <div align="center">
-  <!-- Profile Trophy -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=DHRUVV23&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="trophy stats" /> -->
-<!-- </div> -->
-<!-- <br> -->
-<!-- <div align="center"> --> -->
-  <!-- <img src="https://komarev.com/ghpvc/?username=DHRUVV23&style=flat-square&color=blueviolet" alt="Profile Views" /> -->
+  <img src="https://komarev.com/ghpvc/?username=DHRUVV23&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
