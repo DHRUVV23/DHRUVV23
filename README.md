@@ -42,9 +42,9 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,cpp,python,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,python,nodejs,express,react,nextjs" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,docker,gcp,git" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,docker,gcp,git,tailwind" />
 </div>
 
 ---
