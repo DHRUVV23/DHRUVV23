@@ -57,18 +57,26 @@
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHRUVV23&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVV23&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <!-- GitHub Profile Summary Cards - Always works -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DHRUVV23&theme=radical" alt="profile details" />
 </div>
-
 <br>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DHRUVV23&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
+  <!-- Stats and Languages Side by Side -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DHRUVV23&theme=radical" height="180" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DHRUVV23&theme=radical" height="180" alt="languages" />
 </div>
-
 <br>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DHRUVV23&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <!-- Contribution Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DHRUVV23&theme=radical" alt="productive time" />
+</div>
+<!-- <br> -->
+<!-- <div align="center">
+  <!-- Profile Trophy -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=DHRUVV23&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="trophy stats" /> -->
+<!-- </div> -->
+<!-- <br> -->
+<!-- <div align="center"> --> -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=DHRUVV23&style=flat-square&color=blueviolet" alt="Profile Views" /> -->
 </div>
