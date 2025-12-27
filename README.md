@@ -52,8 +52,7 @@
 ### ⚡ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHRUVV23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVV23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
+  <img src="https://metrics.lecoq.io/DHRUVV23?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages.limit=8&config.timezone=Asia%2FKolkata" alt="Dhruv's Metrics" width="50%" />
 </div>
 
 <br>
