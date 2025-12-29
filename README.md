@@ -52,17 +52,19 @@
 ### ⚡ GitHub Analytics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/DHRUVV23?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages.limit=8&config.timezone=Asia%2FKolkata" alt="Dhruv's Metrics" width="50%" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DHRUVV23&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="streak stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DHRUVV23&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://metrics.lecoq.io/DHRUVV23?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages.limit=8&config.timezone=Asia%2FKolkata" alt="Dhruv's Metrics" width="50%" />
 </div>
+
+<br>
+
+
+
+<!-- <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DHRUVV23&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div> -->
